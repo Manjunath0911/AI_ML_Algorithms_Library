@@ -13,16 +13,3 @@ This repository is designed for **beginners, students, and aspiring data scienti
 - 📚 Reference materials and learning paths
 
 ---
-
-## 📂 Folder Structure
-
-```bash
-AI-ML-Algorithms-Guide/
-│
-├── AI_Concepts/             # Core AI topics (e.g., Search, Knowledge, Agents)
-├── ML_Algorithms/           # Supervised & unsupervised ML algorithms
-├── DeepLearning/            # Basic neural networks, CNNs, RNNs
-├── Projects/                # Mini projects with data
-├── Notebooks/               # Jupyter notebooks (visual demos)
-├── Resources/               # PDFs, books, datasets, cheatsheets
-└── README.md
