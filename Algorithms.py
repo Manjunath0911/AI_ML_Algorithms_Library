@@ -85,3 +85,5 @@ path = astar(grid, start, end)
 
 print("Path found:" if path else "No path found.")
 print(path)
+
+# day 2 program 
